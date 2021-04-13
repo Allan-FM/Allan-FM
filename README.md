@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allan-FM.
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning C/C++,C#.
 - 📫 How to reach me: allanfelipedk@gmail.com.
 
 <!---
