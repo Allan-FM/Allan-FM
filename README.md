@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan.
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning game development.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning software engineering.
 - 📫 How to reach me: allanfelipedk@gmail.com.
 - 🇧🇷 Born in Mafra-SC, Brazil <br>
 <!---
