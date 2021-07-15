@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan.
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning C/C++ and Python.
 - 📫 How to reach me: allanfelipedk@gmail.com.
 - 🇧🇷 Born in Mafra-SC, Brazil <br>
 <!---
